@@ -1,4 +1,4 @@
-# <p align="middle">VIEWER EVE</p>
+# <p align="middle">APP NAME</p>
 
 > Heads up : This project is currently under development. It won`t be stable for now.
 
@@ -6,11 +6,10 @@
 
 # 💡 Current Features
 
-
 # ⛏️ How To Build
 
 ```
-$ cd VIEWER-EVE/
+$ cd APP-NAME/
 $ npm install
 $ npm run build
 ```
@@ -26,12 +25,9 @@ $ npm run start_linux // For linux user
 
 # 📝 Future Release Notes
 
-
 # 💪 Currently Working On...
 
-
 # ⚙️ How To Use
-
 
 # 🦟 Bug Report
 
